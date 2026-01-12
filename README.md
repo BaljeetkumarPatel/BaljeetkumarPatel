@@ -1,6 +1,3 @@
-
-## Hi there 👋, I'm Baljeet Kumar Patel
-
 <h1 align="center">Hi 👋, I'm Baljeet Kumar Patel</h1>
 <h3 align="center">A passionate Full-stack and AI & ML | Python, C++, React, Node.js |developer from India</h3>
 
