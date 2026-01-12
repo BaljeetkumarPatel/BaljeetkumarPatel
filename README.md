@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Baljeet Kumar Patel
 
 
 **BaljeetkumarPatel/BaljeetkumarPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Email Me 👉 ✉️ **baljeetpatel022@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 Here are some ideas to get you started:
 
@@ -43,8 +45,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=BaljeetkumarPatel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BaljeetkumarPatel) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
