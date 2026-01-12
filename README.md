@@ -47,13 +47,12 @@ Here are some ideas to get you started:
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baljeetkumarpatel&show_icons=true&locale=en&layout=compact" alt="baljeetkumarpatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baljeetkumarpatel&show_icons=true&locale=en" alt="baljeetkumarpatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baljeetkumarpatel&" alt="baljeetkumarpatel" /></p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaljeetkumarPatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baljeetkumarpatel" alt="baljeetkumarpatel" /></a> </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
