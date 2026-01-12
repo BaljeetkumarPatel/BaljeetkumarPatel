@@ -46,6 +46,12 @@ Here are some ideas to get you started:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baljeetkumarpatel&show_icons=true&locale=en&layout=compact" alt="baljeetkumarpatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baljeetkumarpatel&show_icons=true&locale=en" alt="baljeetkumarpatel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baljeetkumarpatel&" alt="baljeetkumarpatel" /></p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaljeetkumarPatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
