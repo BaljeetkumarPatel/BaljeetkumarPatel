@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baljeet Kumar Patel</h1>
-<h3 align="center">A passionate Full-stack and AI & ML | Python, C++, React, Node.js |developer from India</h3>
+<h3 align="center">A passionate Full-stack and AI & ML | Python, C++, React, Node.js developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baljeetkumarpatel&label=Profile%20views&color=0e75b6&style=flat" alt="baljeetkumarpatel" /> </p>
 
